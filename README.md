@@ -12,6 +12,10 @@ See the Wikipedia page at https://en.wikipedia.org/wiki/Iris_flower_data_set for
 
 A jupyter-notebook is included in folder __Iris__.
 
+### Medical
+
+Nice classification example using a medical dataset. Jupyter-notebook and the `.csv` file is included in this folder.
+
 ## Unsupervised Learning
 
 ### Wine
@@ -19,4 +23,3 @@ A jupyter-notebook is included in folder __Iris__.
 Wine data set for unsupervised learning.
 
 A jupyter-notebook is included in folder __Wine__.
-
